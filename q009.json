@@ -1,0 +1,8 @@
+﻿{
+	"qId":"009",
+	"question":"これはなんでしょう？",
+	"imgUrl":"https://raw.githubusercontent.com/bull-frog/personal/main/q009.jpeg",
+	"options":["ジャイアントパンダ","レッサーパンダ","ホッキョクグマ"],
+	"corA":0 ,
+	"comment":""
+}

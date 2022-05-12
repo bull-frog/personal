@@ -1,0 +1,9 @@
+﻿{
+	"qId":"038",
+	"question":"これはGoogleマップの画面ですが、この地図ともっとも関わりが深いものはどれでしょう？",
+	"imgUrl":"https://drive.google.com/open?id=1oQ6sfgOV7d7BsPvetintjHd8wiHceYCS",
+	"options":["記念碑","鉄道駅","造船所","競技場"],
+	"corA":1,
+	"aveTime":10000,
+	"comment":"地図上の放射状のものは、鉄道の「転車台」です。場所は新山口駅付近です。"
+}

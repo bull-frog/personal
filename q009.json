@@ -1,8 +1,9 @@
 ﻿{
 	"qId":"009",
-	"question":"これはなんでしょう？",
-	"imgUrl":"https://raw.githubusercontent.com/bull-frog/personal/main/q009.jpeg",
-	"options":["ジャイアントパンダ","レッサーパンダ","ホッキョクグマ"],
-	"corA":0 ,
+	"question":"次の命題が真となるように答えなさい。「あなたの回答がＡかつＢでないならば1+1=1である」",
+	"imgUrl":"",
+	"options":["Ａ","Ｂ"],
+	"corA":1,
+	"aveTime":10000,
 	"comment":""
 }

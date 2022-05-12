@@ -1,0 +1,9 @@
+﻿{
+	"qId":"039",
+	"question":"これはGoogleマップの画面ですが、この地図ともっとも関わりが深いものはどれでしょう？",
+	"imgUrl":"https://drive.google.com/open?id=10oxzDNGaTOAVJLXXJXKkHWBAesAm5ydp",
+	"options":["遺跡","軍事基地","農地","炭鉱"],
+	"corA":1,
+	"aveTime":10000,
+	"comment":"アメリカ・ネバダ州にある核実験場です。1992年までに928回の核実験が行われ、多数のクレーターができました。"
+}

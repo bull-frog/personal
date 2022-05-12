@@ -1,7 +1,7 @@
 ﻿{
 	"qId":"039",
 	"question":"これはGoogleマップの画面ですが、この地図ともっとも関わりが深いものはどれでしょう？",
-	"imgUrl":"https://drive.google.com/open?id=10oxzDNGaTOAVJLXXJXKkHWBAesAm5ydp",
+	"imgUrl":"https://raw.githubusercontent.com/bull-frog/personal/main/q039.jpg",
 	"options":["遺跡","軍事基地","農地","炭鉱"],
 	"corA":1,
 	"aveTime":10000,

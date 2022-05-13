@@ -1,9 +1,9 @@
 ﻿{
 	"qId":"023",
-	"question":"カイコガは飛べない。",
+	"question":"音楽グループ「EGOIST」の楽曲「elbadaernU」は、なんと読むでしょう？（知識問題ではありません！）",
 	"imgUrl":"",
-	"options":["◯","╳"],
-	"corA":0,
-	"aveTime":10000,
-	"comment":""
+	"options":["エルバダインユー","アンリーダブル","クレイモア"],
+	"corA":1,
+	"aveTime":5677,
+	"comment":"Uが大文字であることに着目して、逆から読むと「Unreadable」、つまり「アンリーダブル」です。逆から書いてるから読めない、つまり「Unreadable」というわけですね。"
 }

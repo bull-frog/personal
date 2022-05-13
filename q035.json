@@ -1,9 +1,9 @@
 ﻿{
 	"qId":"035",
-	"question":"空欄に当てはまるものを選べ。「桃栗三年柿八年、(?)は九年の花盛り。」",
-	"imgUrl":"",
-	"options":["蜜柑(みかん)","檸檬(れもん)","橙(だいだい)","柚子(ゆず)"],
-	"corA":3,
-	"aveTime":10000,
-	"comment":""
+	"question":"これはGoogleマップの画面ですが、この地図ともっとも関わりが深いものはどれでしょう？",
+	"imgUrl":"https://raw.githubusercontent.com/bull-frog/personal/main/q035.jpg",
+	"options":["記念碑","鉄道駅","造船所","競技場"],
+	"corA":1,
+	"aveTime":8428,
+	"comment":"地図上の放射状のものは、鉄道の「転車台」です。場所は新山口駅付近です。"
 }

@@ -1,9 +1,9 @@
 ﻿{
 	"qId":"021",
-	"question":"オイラーの記法と呼ばれる微分の表記はどれ？",
-	"imgUrl":"https://raw.githubusercontent.com/bull-frog/personal/main/q021.png",
-	"options":["①","②","③","④"],
-	"corA":2,
-	"aveTime":10000,
-	"comment":""
+	"question":"カイコガは飛べない。",
+	"imgUrl":"",
+	"options":["◯","╳"],
+	"corA":0,
+	"aveTime":2089,
+	"comment":"カイコは完全に家畜化された動物である。体が大きく、飛ぶための筋力が衰退しているため、飛ぶことはできず、自然界で生き残ることもできない。"
 }
